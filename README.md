@@ -4,6 +4,7 @@ Simple SpringBoot Rest Api with Spring Data REST
 Built With
 
     Spring Boot 2 (based on Spring Framework 5) with Gradle
+    Spring Data JPA
     Spring Data REST
     JUnit 4
     Lombok
