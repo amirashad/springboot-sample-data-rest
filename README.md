@@ -14,6 +14,6 @@ Setting up Dev
 
 To start developing the project:
 
-git clone https://github.com/amirashad/springboot-sample-data-rest.git
-cd springboot-sample-data-rest/
-gradle check
+    git clone https://github.com/amirashad/springboot-sample-data-rest.git
+    cd springboot-sample-data-rest/
+    gradle check
