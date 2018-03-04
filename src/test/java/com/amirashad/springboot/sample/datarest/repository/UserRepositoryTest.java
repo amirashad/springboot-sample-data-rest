@@ -1,7 +1,7 @@
 package com.amirashad.springboot.sample.datarest.repository;
 
-import com.amirashad.springboot.sample.datarest.StoreAppWebApplication;
 import com.amirashad.springboot.sample.datarest.TestUtils;
+import com.amirashad.springboot.sample.datarest.WebApplication;
 import com.amirashad.springboot.sample.datarest.model.User;
 import org.junit.Before;
 import org.junit.Test;
@@ -22,7 +22,7 @@ import static org.springframework.test.web.servlet.result.MockMvcResultHandlers.
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.*;
 
 @RunWith(SpringRunner.class)
-@SpringBootTest(classes = StoreAppWebApplication.class)
+@SpringBootTest(classes = WebApplication.class)
 @AutoConfigureMockMvc
 public class UserRepositoryTest {
 
