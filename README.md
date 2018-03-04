@@ -1,5 +1,5 @@
 # springboot-sample-data-rest
-Simple SpringBoot Rest Api with Spring Data REST
+Simple SpringBoot REST Api with Spring Data REST
 
 Built With
 
