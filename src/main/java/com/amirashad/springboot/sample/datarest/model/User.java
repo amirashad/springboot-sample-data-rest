@@ -1,4 +1,4 @@
-package az.rashad.store.web.model;
+package com.amirashad.springboot.sample.datarest.model;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;

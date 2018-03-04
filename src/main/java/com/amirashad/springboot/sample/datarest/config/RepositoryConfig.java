@@ -1,6 +1,6 @@
-package az.rashad.store.web.config;
+package com.amirashad.springboot.sample.datarest.config;
 
-import az.rashad.store.web.model.User;
+import com.amirashad.springboot.sample.datarest.model.User;
 import org.springframework.data.rest.core.config.RepositoryRestConfiguration;
 import org.springframework.data.rest.webmvc.config.RepositoryRestConfigurerAdapter;
 import org.springframework.stereotype.Component;

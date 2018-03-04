@@ -1,4 +1,4 @@
-package az.rashad.store.web;
+package com.amirashad.springboot.sample.datarest;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.databind.ObjectMapper;

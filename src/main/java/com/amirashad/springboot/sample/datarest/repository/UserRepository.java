@@ -1,6 +1,6 @@
-package az.rashad.store.web.repository;
+package com.amirashad.springboot.sample.datarest.repository;
 
-import az.rashad.store.web.model.User;
+import com.amirashad.springboot.sample.datarest.model.User;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.data.rest.core.annotation.RepositoryRestResource;
 

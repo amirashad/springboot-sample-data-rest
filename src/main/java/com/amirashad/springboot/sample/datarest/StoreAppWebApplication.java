@@ -1,4 +1,4 @@
-package az.rashad.store.web;
+package com.amirashad.springboot.sample.datarest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

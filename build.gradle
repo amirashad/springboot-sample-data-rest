@@ -17,9 +17,9 @@ apply plugin: 'org.springframework.boot'
 apply plugin: 'io.spring.dependency-management'
 apply plugin: 'war'
 
-group = 'az.rashad.store.web'
+group = 'com.amirashad.springboot.sample.datarest'
 version = '0.0.1-SNAPSHOT'
-sourceCompatibility = 9
+sourceCompatibility = 8
 
 repositories {
 	mavenCentral()
@@ -40,6 +40,6 @@ dependencies {
 	compileOnly 'org.projectlombok:lombok'
 	testCompile 'org.springframework.boot:spring-boot-starter-test'
 
-	//In case of  Java 9 uncomment following line:
+	//In case of Java 9 uncomment following line:
 	//runtime 'javax.xml.bind:jaxb-api:2.3.0'
 }
