@@ -1,12 +1,12 @@
 # springboot-sample-data-rest
-Simple SpringBoot Rest Api with Spring Data REST
+Simple SpringBoot REST API with Spring Data REST
 
 Built With
 
     Spring Boot 2 (based on Spring Framework 5) with Gradle
     Spring Data JPA
     Spring Data REST
-    JUnit 4
+    SpringBootTest with MockMvc to test REST API
     Lombok
     H2 database
 
